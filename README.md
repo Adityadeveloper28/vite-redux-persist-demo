@@ -20,7 +20,7 @@ A demo project built with **React + Vite + Redux Toolkit + Redux Persist** showc
 
 1. **Clone the repo**
    ```bash
-   [git clone https://github.com/your-username/vite-redux-persist-demo.git](https://github.com/Adityadeveloper28/vite-redux-persist-demo.git)
+   git clone https://github.com/Adityadeveloper28/vite-redux-persist-demo.git
    cd vite-redux-persist-demo
    ```
 
